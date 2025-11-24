@@ -1,3 +1,3 @@
-const hello = require('./hello.js');
+const { hello } = require('./hello.js');
 
 hello("World");
